@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asp\\Desktop\\MYFirstApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{652ECA73-0779-46CA-B5EC-C7EA6EAE2924}|MYFirstApp.csproj|c:\\users\\asp\\desktop\\myfirstapp\\controllers\\fruitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{652ECA73-0779-46CA-B5EC-C7EA6EAE2924}|MYFirstApp.csproj|solutionrelative:controllers\\fruitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{652ECA73-0779-46CA-B5EC-C7EA6EAE2924}|MYFirstApp.csproj|c:\\users\\asp\\desktop\\myfirstapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{652ECA73-0779-46CA-B5EC-C7EA6EAE2924}|MYFirstApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 327,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asp\\Desktop\\MYFirstApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\asp\\Desktop\\MYFirstApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T10:40:24.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FruitsController.cs",
+              "DocumentMoniker": "C:\\Users\\asp\\Desktop\\MYFirstApp\\Controllers\\FruitsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FruitsController.cs",
+              "ToolTip": "C:\\Users\\asp\\Desktop\\MYFirstApp\\Controllers\\FruitsController.cs",
+              "RelativeToolTip": "Controllers\\FruitsController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T10:21:49.709Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
